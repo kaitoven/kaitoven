@@ -46,8 +46,8 @@ Hi! Lovely friends. I'm Kaitoven Chen [/ˈkaɪ.tə.vən tʃɛn/], a Computer Sci
 ### 🌐 My Websites
 | Icon         | Name             | Link                                               |
 |--------------|------------------|----------------------------------------------------|
-| 🏠 Home      |Navigation        | [https://www.liushen.fun/](https://me.chendk.info/)  |
-| 🪄 LAB      | Kaitoven Lab     | [https://blog.liushen.fun/](https://blog.liushen.fun/) |
+| 🏠 Home      |Navigation        | [https://me.chendk.info](https://me.chendk.info/)  |
+| 🪄 LAB      | Kaitoven Lab     | [https://www.chendk.info](https://blog.liushen.fun/) |
 
 ---
 
