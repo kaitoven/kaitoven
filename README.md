@@ -1,6 +1,6 @@
 [<img src="./static/2.gif">](https://me.chendk.info/)
 
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, Internet <adventurers> Adventurers </adventurers>! <img src="./static/image.gif" width="30px" alt=""><br>
+<h1 align="center">Hey, THERE ! <img src="./static/image.gif" width="30px" alt=""><br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F57F17&center=true&vCenter=true&width=500&lines=I'm+Kaitoven+Chen;Passionate+about+AI+and+design;Love+gaming+and+digital+exploration;Speaking+to+the+world+through+code" alt="Typing SVG" />
