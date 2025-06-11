@@ -1,4 +1,4 @@
-[<img src="./static/top1.png">](https://me.chendk.info/)
+[<img src="./static/top.png">](https://me.chendk.info/)
 
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, Internet <adventurers> Adventurers </adventurers>! <img src="./static/image.gif" width="30px" alt=""><br>
 
@@ -88,9 +88,9 @@ Hi! Lovely friends. I'm Kaitoven Chen [/ˈkaɪ.tə.vən tʃɛn/], a Computer Sci
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="./static/banner.png" width="100%" alt="Banner" />
 </p>
 
----
+--- -->
 
