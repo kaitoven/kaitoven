@@ -1,4 +1,4 @@
-[<img src="./static/2.gif">](https://me.chendk.info/)
+[<img src="./static/1.gif">](https://me.chendk.info/)
 
 <h1 align="center">Hey, There ! <img src="./static/image.gif" width="30px" alt=""><br>
 
