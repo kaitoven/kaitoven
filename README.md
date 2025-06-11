@@ -74,12 +74,13 @@ Hi! Lovely friends. I'm Kaitoven Chen [/ˈkaɪ.tə.vən tʃɛn/], a Computer Sci
 ### 🧮 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaitoven&show_icons=true&theme=buefy&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitoven&layout=compact&theme=buefy&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaitoven&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitoven&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- 贡献连击图 -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kaitoven&theme=buefy&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=kaitoven&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
