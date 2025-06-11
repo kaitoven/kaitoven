@@ -74,7 +74,7 @@ Hi! Lovely friends. I'm Kaitoven Chen [/ˈkaɪ.tə.vən tʃɛn/], a Computer Sci
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kaitoven/kaitoven/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/kaitoven/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
