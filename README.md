@@ -83,7 +83,7 @@ Hi! Lovely friends. I'm Kaitoven Chen [/ˈkaɪ.tə.vən tʃɛn/], a Computer Sci
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaitoven&show_icons=true&theme=tokyonight-duo&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitoven&layout=compact&theme=tokyonight-duo&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitoven&layout=compact&theme=tokyonight-duo&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=300" />
 </p>
 
 <!-- 贡献连击图 -->
