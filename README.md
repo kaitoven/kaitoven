@@ -14,7 +14,7 @@
   <img align="center" alt="我的邮箱" width="22px" src="./static/icon/email.svg" />
 </a>
 <a href="https://www.chendk.info/">
-  <img align="center" alt="Kaitoven Lab" width="22px" src="./static/icon/blog.svg" />
+  <img align="center" alt="Kaitoven Lab" width="22px" src="./static/icon/blogger.svg" />
 </a>
 <a href="https://github.com/kaitoven">
   <img align="center" alt="github主页" width="22px" src="./static/icon/github.svg" />
