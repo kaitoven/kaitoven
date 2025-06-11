@@ -34,7 +34,7 @@ Hi! Lovely friends. I'm Kaitoven Chen [/ˈkaɪ.tə.vən tʃɛn/], a Computer Sci
 ---
 
 ### :book: About me
-- 🛠️ **Skills:** ☕️Java, 🐍Python, 🤖Machine Learning, 🧠Deep Learning, 🖼️Image Segmentation, 👁️Computer Vision
+- 🛠️ **Skills:** ☕️Java, 🐍Python, 🤖Machine Learning, 🧠Deep Learning, 🖼️Image Segmentation, 🎬Video Editing, 👁️Computer Vision
 - 🧾 **Profile:**
     - 🧑‍💻 **Name:** Kaitoven Chen
     - 🏫 **University:** University of København
