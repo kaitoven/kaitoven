@@ -25,7 +25,7 @@
 ---
 
 ### 👋 Personal Introduction 
-[Navigation-MyWeb](https://me.chendk.info/) | [Kaitoven Lab](https://www.chendk.info/)
+[Navigation](https://me.chendk.info/) | [Kaitoven Lab](https://www.chendk.info/)
 
 Hi! Lovely friends. I'm Kaitoven Chen [/ˈkaɪ.tə.vən tʃɛn/], a Computer Science student at DIKU with a strong passion for technology and creative development. My expertise lies in Java, Python, Machine Learning, Deep Learning, and Computer Vision, with hands-on experience in image segmentation and visual recognition tasks.
 
