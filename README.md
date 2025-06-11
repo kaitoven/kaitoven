@@ -71,9 +71,16 @@ Hi! Lovely friends. I'm Kaitoven Chen [/ˈkaɪ.tə.vən tʃɛn/], a Computer Sci
 
 ---
 
-### 🧮 Github Stats
-| <a href="https://github.com/kaitoven/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaitoven&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/kaitoven/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitoven&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+### 🧮 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaitoven&show_icons=true&theme=buefy&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitoven&layout=compact&theme=buefy&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kaitoven&theme=buefy&hide_border=true" />
+</p>
 
 ---
 
