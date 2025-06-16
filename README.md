@@ -1,4 +1,4 @@
-[<img src="./static/1.gif">](https://me.chendk.info/)
+[<img src="./static/1.gif">](https://www.kaitoven.com/)
 
 <h1 align="center">Make yourself at home.<img src="./static/image.gif" width="30px" alt=""><br>
 
@@ -13,7 +13,7 @@
   <a href="mailto:kaitovenchen@gmail.com">
   <img align="center" alt="我的邮箱" width="22px" src="./static/icon/email.svg" />
 </a>
-<a href="https://www.chendk.info/">
+<a href="https://www.kaitoven.com/">
   <img align="center" alt="Kaitoven Lab" width="22px" src="./static/icon/blogger.svg" />
 </a>
 <a href="https://github.com/kaitoven">
@@ -25,7 +25,7 @@
 ---
 
 ### 👋 Personal Introduction 
-[Navigation](https://me.chendk.info/) | [Kaitoven Lab](https://www.chendk.info/)
+[Navigation](https://me.chendk.info/) | [Kaitoven Lab](https://www.kaitoven.com/)
 
 Hi! Lovely friends. I'm Kaitoven Chen [/ˈkaɪ.tə.vən tʃɛn/], a Computer Science student at DIKU with a strong passion for technology and creative development. My expertise lies in Java, Python, Machine Learning, Deep Learning, and Computer Vision, with hands-on experience in image segmentation and visual recognition tasks.
 
@@ -47,7 +47,7 @@ Hi! Lovely friends. I'm Kaitoven Chen [/ˈkaɪ.tə.vən tʃɛn/], a Computer Sci
 | Icon         | Name             | Link                                               |
 |--------------|------------------|----------------------------------------------------|
 | 🏠 Home      |Navigation        | [https://me.chendk.info](https://me.chendk.info/)  |
-| 🪄 LAB      | Kaitoven Lab     | [https://www.chendk.info](https://blog.liushen.fun/) |
+| 🪄 LAB      | Kaitoven Lab     | [https://www.chendk.info](https://www.kaitoven.com/) |
 
 ---
 
