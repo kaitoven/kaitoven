@@ -7,7 +7,7 @@
 </p>
 
 
-<a href="https://me.chendk.info/">
+<a href="https://nav.kaitoven.com/">
   <img align="center" alt="Navigation-MyWebsite" width="22px" src="./static/icon/home.svg" />
 </a>
   <a href="mailto:kaitovenchen@gmail.com">
@@ -25,7 +25,7 @@
 ---
 
 ### 👋 Personal Introduction 
-[Navigation](https://me.chendk.info/) | [Kaitoven Lab](https://www.kaitoven.com/)
+[Navigation](https://nav.kaitoven.com/) | [Kaitoven Lab](https://www.kaitoven.com/)
 
 Hi! Lovely friends. I'm Kaitoven Chen [/ˈkaɪ.tə.vən tʃɛn/], a Computer Science student at DIKU with a strong passion for technology and creative development. My expertise lies in Java, Python, Machine Learning, Deep Learning, and Computer Vision, with hands-on experience in image segmentation and visual recognition tasks.
 
@@ -46,7 +46,7 @@ Hi! Lovely friends. I'm Kaitoven Chen [/ˈkaɪ.tə.vən tʃɛn/], a Computer Sci
 ### 🌐 My Websites
 | Icon         | Name             | Link                                               |
 |--------------|------------------|----------------------------------------------------|
-| 🏠 Home      |Navigation        | [https://me.chendk.info](https://me.chendk.info/)  |
+| 🏠 Home      |Navigation        | [https://nav.kaitoven.com](https://nav.kaitoven.com/)  |
 | 🪄 LAB      | Kaitoven Lab     | [https://www.kaitoven.com](https://www.kaitoven.com/) |
 
 ---
