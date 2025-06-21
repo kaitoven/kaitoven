@@ -91,7 +91,6 @@ Hi! Lovely friends. I'm Kaitoven Chen [/ˈkaɪ.tə.vən tʃɛn/], a Computer Sci
 
 <p align="center">
 <!--   <img src="https://streak-stats.demolab.com?user=kaitoven&theme=tokyonight-duo&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /> -->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=kaitoven&theme=tokyonight&hide_border=true&short_numbers=true&card_width=500&card_height=200)](https://git.io/streak-stats)
 </p>
 
 ---
