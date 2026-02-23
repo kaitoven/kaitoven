@@ -1,5 +1,5 @@
 <details>
-  <summary>点击查看隐藏的动图</summary>
+  <summary>Surprise!</summary>
   
   [<img src="./static/1.gif">](https://www.kaitoven.com/)
   
