@@ -1,4 +1,4 @@
-<--[<img src="./static/1.gif">](https://www.kaitoven.com/)-->
+`[<img src="./static/1.gif">](https://www.kaitoven.com/)`
 
 <h1 align="center">Make yourself at home.<img src="./static/image.gif" width="30px" alt=""><br>
 
