@@ -1,4 +1,9 @@
-%% [<img src="./static/1.gif">](https://www.kaitoven.com/) %%
+<details>
+  <summary>点击查看隐藏的动图</summary>
+  
+  [<img src="./static/1.gif">](https://www.kaitoven.com/)
+  
+</details>
 
 <h1 align="center">Make yourself at home.<img src="./static/image.gif" width="30px" alt=""><br>
 
